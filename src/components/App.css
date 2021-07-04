@@ -1,0 +1,21 @@
+h3 {
+	font-size:  40px;
+	margin-bottom:  40px;
+
+}
+
+.bg-light {
+	border-radius:  15px;
+	position: relative;
+	top:  0;
+	transition: top ease 0.5s;
+}
+
+.bg-light:hover {
+	top: -5px;
+}
+
+img {
+	margin-top:  -120px;
+	margin-bottom:  -80px;
+}
