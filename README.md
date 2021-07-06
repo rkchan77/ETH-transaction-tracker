@@ -1,4 +1,4 @@
 # Ethereum Blockchain Transaction Tracker
-Website that tracks recent transactions on Ethereum Blockchain
+Website that tracks recent transactions on the Ethereum Blockchain
 
 ![](./demo.png)
