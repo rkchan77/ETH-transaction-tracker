@@ -9,5 +9,5 @@ Website that tracks recent transactions on the Ethereum Blockchain
 5. npm run start
 6. Open localhost:3000 in your browser if application does not open automatically
 
-**Preview: **
+**Preview:**
 ![](./demo.png)
