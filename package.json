@@ -2,6 +2,7 @@
   "name": "Blockchain Tracker",
   "version": "0.1.0",
   "description": "Ethereum Transaction Tracker",
+  "homepage": "http://rkchan77.github.io/eth-transaction-tracker",
   "author": "rkchan06@icloud.com",
   "dependencies": {
     "babel-polyfill": "6.26.0",
@@ -23,6 +24,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
